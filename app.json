@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "netflix-gpt",
-    "slug": "netflix-gpt",
+    "name": "filmy-gpt",
+    "slug": "filmy-gpt",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "movies",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
